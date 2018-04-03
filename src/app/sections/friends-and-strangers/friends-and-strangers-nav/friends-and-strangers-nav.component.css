@@ -1,0 +1,10 @@
+.friends-and-strangers-nav {
+    background-color: white;
+    border: 1px solid black;
+}
+
+.friends-and-strangers-nav a {
+    font-size: 16pt;
+    padding-left: 30px;
+    padding-right: 30px;
+}

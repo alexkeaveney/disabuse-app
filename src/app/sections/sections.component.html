@@ -1,0 +1,8 @@
+<div class="container">
+  <div class="row auto-clear" >
+    <div class="card card-block col-md-6 section" *ngFor="let section of sections">
+      <div class="section-image"><img src="/{{section.link}}" width="150px" height="150px" /></div>
+      <div><a href="#" class="section-link">{{ section.title }}</a></div>
+    </div>
+  </div>
+</div>

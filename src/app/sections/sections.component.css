@@ -1,0 +1,34 @@
+.section {
+    height: 300px;
+    background-color: #008bcc;
+    border: none;
+    text-align: center;
+}
+
+.section-link {
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: helvetica, serif;
+    border: 1px solid #0a3c59;
+    border-radius: 9px;
+}
+
+ .section-link a:link, .section-link a:visited, .section-link a:hover {
+    color: #008bcc;
+    text-decoration: none;
+}
+
+
+
+
+.section img {
+    border-radius: 50%;
+    background-color: white;
+}
+
+.section-image {
+    margin-bottom: 50px;
+}
